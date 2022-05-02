@@ -51,8 +51,10 @@ topics:
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: Flutter
+    web_url: https://flutter.dev/?gclsrc=ds&gclsrc=ds
+    image_url: https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/flutter-128.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png
